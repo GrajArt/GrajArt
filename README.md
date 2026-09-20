@@ -23,6 +23,10 @@ Disfruto transformando ideas en aplicaciones funcionales mientras aprendo contin
 - :electric_plug: REST APIs
 - :file_cabinet: Databases
 - :wrench: Git & GitHub
+## :hammer_and_wrench: Tecnologías y herramientas
+<div align="center">
+ ## :art:Frontend
+ <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 
 
