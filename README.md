@@ -14,15 +14,15 @@ Estoy desarrollando mis habilidades en desarrollo web Full Stack, explorando tan
 Disfruto transformando ideas en aplicaciones funcionales mientras aprendo continuamente nuevas tecnologías y prácticas de desarrollo.
 
 ## :dart: Mi enfoque
-:globe_with_meridians: Web Development
-:art: Frontend Development
+- :globe_with_meridians: Web Development
+- :art: Frontend Development
 :engranaje: Backend Development
 :snake: Python
 :zap: JavaScript
 :atom_symbol: React
 :plug: REST APIs
 :file_cabinet: Databases
-:wrench : Git & GitHub
+:wrench: Git & GitHub
 
 
 
