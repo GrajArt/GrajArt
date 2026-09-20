@@ -13,4 +13,6 @@ creando aplicaciones modernas, funcionales y responsivas.
 Estoy desarrollando mis habilidades en desarrollo web Full Stack, explorando tanto el frontend como el backend de las aplicaciones web.
 Disfruto transformando ideas en aplicaciones funcionales mientras aprendo continuamente nuevas tecnologías y prácticas de desarrollo.
 
+## :U+1F3AF: Mi enfoque
+
 
