@@ -16,13 +16,13 @@ Disfruto transformando ideas en aplicaciones funcionales mientras aprendo contin
 ## :dart: Mi enfoque
 - :globe_with_meridians: Web Development
 - :art: Frontend Development
-:engranaje: Backend Development
-:snake: Python
-:zap: JavaScript
-:atom_symbol: React
-:plug: REST APIs
-:file_cabinet: Databases
-:wrench: Git & GitHub
+- :gear: Backend Development
+- :snake: Python
+- :za: JavaScript
+- :atom_symbol: React
+- :plug: REST APIs
+- :file_cabinet: Databases
+- :wrench: Git & GitHub
 
 
 
