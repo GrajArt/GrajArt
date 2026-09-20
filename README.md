@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-const developer = { focus: "Full Stack Web Development", learning: [ "Frontend", "Backend", "APIs", "Databases", "Cloud" ], mindset: "Keep learning. Keep building." }; console.log("Let's build something great! 🚀");
+
