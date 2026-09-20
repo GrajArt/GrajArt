@@ -6,6 +6,7 @@ creando aplicaciones modernas, funcionales y responsivas.
 <p align="center">
   <img src="./assets/Video Project 1.gif" width="450">
 </p>
+
 ## :technologist: Acerca de mí
 Estoy desarrollando mis habilidades en desarrollo web Full Stack, explorando tanto el frontend como el backend de las aplicaciones web.
 Disfruto transformando ideas en aplicaciones funcionales mientras aprendo continuamente nuevas tecnologías y prácticas de desarrollo.
