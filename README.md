@@ -18,9 +18,9 @@ Disfruto transformando ideas en aplicaciones funcionales mientras aprendo contin
 - :art: Frontend Development
 - :gear: Backend Development
 - :snake: Python
-- :za: JavaScript
+- :zap: JavaScript
 - :atom_symbol: React
-- :plug: REST APIs
+- :electric_plug: REST APIs
 - :file_cabinet: Databases
 - :wrench: Git & GitHub
 
