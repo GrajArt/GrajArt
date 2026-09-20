@@ -2,7 +2,7 @@
 
 ## 💻 Full Stack Web Developer
 <p align="center">
-  <img src="./assets/Video Project 1" width="850">
+  <img src="./assets/Video Project 1.gif" width="850">
 </p>
 
 
