@@ -25,7 +25,7 @@ Disfruto transformando ideas en aplicaciones funcionales mientras aprendo contin
 - :wrench: Git & GitHub
 ## :hammer_and_wrench: Tecnologías y herramientas
  ## :art: Frontend
- [![HTML](https://img.shields.io/badge/HTML-yellow?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+ ![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]()
 <div align="center">
 <br>
  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
