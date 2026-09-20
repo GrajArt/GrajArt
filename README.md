@@ -43,6 +43,11 @@ Disfruto transformando ideas en aplicaciones funcionales mientras aprendo contin
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
  [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+## :brain: Principios y Arquitectura
+ ![SOLID](https://img.shields.io/badge/SOLID-Principles-6A5ACD?style=for-the-badge)
+ ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-FF6F00?style=for-the-badge) 
+ ![MVC](https://img.shields.io/badge/MVC-Architecture-00897B?style=for-the-badge)
+ 
 
 
 
