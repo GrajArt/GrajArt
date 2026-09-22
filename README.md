@@ -4,7 +4,7 @@
 Soy desarrollador enfocado en el desarrollo web Full Stack,
 creando aplicaciones modernas, funcionales y responsivas.
 <p align="center">
-  <img src="./assets/Video Project 1.gif" width="650">
+  <img src="./assets/Video Project 1.gif" width="850">
 </p>
 
 ## :technologist: Acerca de mí
